@@ -38,7 +38,8 @@ def lowercase(ToList):
 
 def flu_separator(animals):
     '''
-    The function to add new animal string ino animals list from other species flu
+    This function is to append additional animal string into animals list
+    form a list of flu tropism of other species host than human
     Args:
         animals: a exist list of str of animal to filter the dictionary
     return:
